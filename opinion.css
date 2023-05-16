@@ -1,0 +1,54 @@
+.diver {
+    border-top: solid 6px lightblue;
+    border-right: solid 6px lightblue;
+    border-left: solid 6px lightblue;
+    padding: 10px;
+}
+img {
+    width: 800px;
+    height: 150px;
+    border: solid 4px #59587a;
+    padding: 4px 10px 4px 10px;
+    border-radius: 30px;
+}
+header {
+    text-align: center;
+}
+h1 {
+    color: rgb(97, 133, 241);
+    font-size: 4em;
+}
+h3 {
+    color: #670a9c;
+}
+h4 {
+    font-size: 2em;
+    color: #345355;
+}
+p {
+    font-size: 1.5em;
+}
+h5 {
+    text-align: center;
+    color: #753646;
+    font-size: 2em;
+}
+ol {
+    text-align: center;
+    font-size: 1.8em;
+}
+ul {
+    text-align: center;
+    font-size: 1.8em;
+}
+.note {
+    background: rgb(238, 238, 16);
+    text-align: center;
+    border: solid 3px black;
+    padding: 5px 10px 5px 10px;
+}
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+}
